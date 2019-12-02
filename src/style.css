@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+html {
+	padding: 0;
+	margin: 0;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	background-color: rgba(79, 190, 255, 0.274);
+	width: 70%;
+	padding: 0;
+	margin: 0 auto;
+}
+h1 {
+	font-size: 2rem;
+}
